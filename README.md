@@ -32,6 +32,4 @@ No additional installation or configuration is required.
 
 ![Vertex Corruptor Interface](img.jpg)
 
----
 
-**YAZAVIS Project**
